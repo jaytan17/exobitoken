@@ -1,0 +1,2 @@
+# exobitoken
+Cryptocurrency for all
